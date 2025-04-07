@@ -1,0 +1,70 @@
+C:\Users\gerso\OneDrive\Escritorio\Gestion\GestionCine\GestionCine\bin\Debug\GestionCine.exe.config
+C:\Users\gerso\OneDrive\Escritorio\Gestion\GestionCine\GestionCine\bin\Debug\GestionCine.exe
+C:\Users\gerso\OneDrive\Escritorio\Gestion\GestionCine\GestionCine\bin\Debug\GestionCine.pdb
+C:\Users\gerso\OneDrive\Escritorio\Gestion\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.AssemblyReference.cache
+C:\Users\gerso\OneDrive\Escritorio\Gestion\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.CoreCompileInputs.cache
+C:\Users\gerso\OneDrive\Escritorio\Gestion\GestionCine\GestionCine\obj\Debug\GestionCine.exe
+C:\Users\gerso\OneDrive\Escritorio\Gestion\GestionCine\GestionCine\obj\Debug\GestionCine.pdb
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMax\GestionCine\GestionCine\bin\Debug\GestionCine.exe.config
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMax\GestionCine\GestionCine\bin\Debug\GestionCine.exe
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMax\GestionCine\GestionCine\bin\Debug\GestionCine.pdb
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMax\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.AssemblyReference.cache
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMax\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.CoreCompileInputs.cache
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMax\GestionCine\GestionCine\obj\Debug\GestionCine.exe
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMax\GestionCine\GestionCine\obj\Debug\GestionCine.pdb
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMaxx\GestionCine\GestionCine\bin\Debug\GestionCine.exe.config
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMaxx\GestionCine\GestionCine\bin\Debug\GestionCine.exe
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMaxx\GestionCine\GestionCine\bin\Debug\GestionCine.pdb
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMaxx\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.AssemblyReference.cache
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMaxx\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.CoreCompileInputs.cache
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMaxx\GestionCine\GestionCine\obj\Debug\GestionCine.exe
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMaxx\GestionCine\GestionCine\obj\Debug\GestionCine.pdb
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMaxxx\GestionCine\GestionCine\bin\Debug\GestionCine.exe.config
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMaxxx\GestionCine\GestionCine\bin\Debug\GestionCine.exe
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMaxxx\GestionCine\GestionCine\bin\Debug\GestionCine.pdb
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMaxxx\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.AssemblyReference.cache
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMaxxx\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.CoreCompileInputs.cache
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMaxxx\GestionCine\GestionCine\obj\Debug\GestionCine.exe
+C:\Users\gerso\OneDrive\Escritorio\GestionCineMaxxx\GestionCine\GestionCine\obj\Debug\GestionCine.pdb
+D:\Sebastian\Downloads\GestionCineMaxWaa\GestionCineMaxWaa\GestionCine\GestionCine\bin\Debug\GestionCine.exe.config
+D:\Sebastian\Downloads\GestionCineMaxWaa\GestionCineMaxWaa\GestionCine\GestionCine\bin\Debug\GestionCine.exe
+D:\Sebastian\Downloads\GestionCineMaxWaa\GestionCineMaxWaa\GestionCine\GestionCine\bin\Debug\GestionCine.pdb
+D:\Sebastian\Downloads\GestionCineMaxWaa\GestionCineMaxWaa\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.AssemblyReference.cache
+D:\Sebastian\Downloads\GestionCineMaxWaa\GestionCineMaxWaa\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.CoreCompileInputs.cache
+D:\Sebastian\Downloads\GestionCineMaxWaa\GestionCineMaxWaa\GestionCine\GestionCine\obj\Debug\GestionCine.exe
+D:\Sebastian\Downloads\GestionCineMaxWaa\GestionCineMaxWaa\GestionCine\GestionCine\obj\Debug\GestionCine.pdb
+C:\Users\gerso\OneDrive\Escritorio\GestionCine\GestionCine\bin\Debug\GestionCine.exe.config
+C:\Users\gerso\OneDrive\Escritorio\GestionCine\GestionCine\bin\Debug\GestionCine.exe
+C:\Users\gerso\OneDrive\Escritorio\GestionCine\GestionCine\bin\Debug\GestionCine.pdb
+C:\Users\gerso\OneDrive\Escritorio\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.AssemblyReference.cache
+C:\Users\gerso\OneDrive\Escritorio\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.CoreCompileInputs.cache
+C:\Users\gerso\OneDrive\Escritorio\GestionCine\GestionCine\obj\Debug\GestionCine.exe
+C:\Users\gerso\OneDrive\Escritorio\GestionCine\GestionCine\obj\Debug\GestionCine.pdb
+C:\Users\carlo\Downloads\GestionCine\GestionCine\GestionCine\bin\Debug\GestionCine.exe.config
+C:\Users\carlo\Downloads\GestionCine\GestionCine\GestionCine\bin\Debug\GestionCine.exe
+C:\Users\carlo\Downloads\GestionCine\GestionCine\GestionCine\bin\Debug\GestionCine.pdb
+C:\Users\carlo\Downloads\GestionCine\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\GestionCine\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\GestionCine\GestionCine\GestionCine\obj\Debug\GestionCine.exe
+C:\Users\carlo\Downloads\GestionCine\GestionCine\GestionCine\obj\Debug\GestionCine.pdb
+D:\Sebastian\Desktop\Programas Ciclo 4\GestionCine\GestionCine\GestionCine\bin\Debug\GestionCine.exe.config
+D:\Sebastian\Desktop\Programas Ciclo 4\GestionCine\GestionCine\GestionCine\bin\Debug\GestionCine.exe
+D:\Sebastian\Desktop\Programas Ciclo 4\GestionCine\GestionCine\GestionCine\bin\Debug\GestionCine.pdb
+D:\Sebastian\Desktop\Programas Ciclo 4\GestionCine\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.AssemblyReference.cache
+D:\Sebastian\Desktop\Programas Ciclo 4\GestionCine\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.CoreCompileInputs.cache
+D:\Sebastian\Desktop\Programas Ciclo 4\GestionCine\GestionCine\GestionCine\obj\Debug\GestionCine.exe
+D:\Sebastian\Desktop\Programas Ciclo 4\GestionCine\GestionCine\GestionCine\obj\Debug\GestionCine.pdb
+C:\Users\carlo\Downloads\GestionCine (2)\GestionCine\GestionCine\GestionCine\bin\Debug\GestionCine.exe.config
+C:\Users\carlo\Downloads\GestionCine (2)\GestionCine\GestionCine\GestionCine\bin\Debug\GestionCine.exe
+C:\Users\carlo\Downloads\GestionCine (2)\GestionCine\GestionCine\GestionCine\bin\Debug\GestionCine.pdb
+C:\Users\carlo\Downloads\GestionCine (2)\GestionCine\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\GestionCine (2)\GestionCine\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\GestionCine (2)\GestionCine\GestionCine\GestionCine\obj\Debug\GestionCine.exe
+C:\Users\carlo\Downloads\GestionCine (2)\GestionCine\GestionCine\GestionCine\obj\Debug\GestionCine.pdb
+C:\Users\gerso\OneDrive\Escritorio\GestionCine\GestionCine\GestionCine\bin\Debug\GestionCine.exe.config
+C:\Users\gerso\OneDrive\Escritorio\GestionCine\GestionCine\GestionCine\bin\Debug\GestionCine.exe
+C:\Users\gerso\OneDrive\Escritorio\GestionCine\GestionCine\GestionCine\bin\Debug\GestionCine.pdb
+C:\Users\gerso\OneDrive\Escritorio\GestionCine\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.AssemblyReference.cache
+C:\Users\gerso\OneDrive\Escritorio\GestionCine\GestionCine\GestionCine\obj\Debug\GestionCine.csproj.CoreCompileInputs.cache
+C:\Users\gerso\OneDrive\Escritorio\GestionCine\GestionCine\GestionCine\obj\Debug\GestionCine.exe
+C:\Users\gerso\OneDrive\Escritorio\GestionCine\GestionCine\GestionCine\obj\Debug\GestionCine.pdb
